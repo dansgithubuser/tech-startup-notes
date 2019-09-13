@@ -54,8 +54,11 @@ There aren't many tools associated with this, but it's probably also you that ha
     - cloudflare
 
 ### prototyping / outsourcing
-- formstack (14 day trial): forms, database
-- tagmanager.google: injecting code into websites
+- forms
+    - cognitoforms
+    - formstack (14 day trial)
+- website code injection
+    - tagmanager.google
 - automated configurable email
     - sendgrid
     - mailgun
