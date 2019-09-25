@@ -76,6 +76,7 @@ There aren't many tools associated with this, but it's probably also you that ha
     - gitlab
     - bitbucket
 - sequence diagrams
+    - https://github.com/blockdiag/seqdiag
     - https://github.com/dansgithubuser/sequence-diagram
 
 ### development
