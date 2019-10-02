@@ -59,9 +59,6 @@ There aren't many tools associated with this, but it's probably also you that ha
     - formstack (14 day trial)
 - website code injection
     - tagmanager.google
-- automated configurable email
-    - sendgrid
-    - mailgun
 - branded link shortening
     - bit.ly
     - short.cm
